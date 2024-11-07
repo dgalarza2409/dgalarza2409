@@ -19,7 +19,7 @@ Permíteme compartir algunos datos personales contigo:
 
 # Carrera
 
-![image](https://github.com/user-attachments/assets/fe1b78cb-4b5d-43c9-a5dd-8b57d5be9f61)
+![image](https://github.com/user-attachments/assets/31674ad5-c92d-467f-abd1-83265aa51abc)
 
 
 
