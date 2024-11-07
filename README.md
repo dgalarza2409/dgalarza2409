@@ -15,7 +15,8 @@ Permíteme compartir algunos datos personales contigo:
 
 # Lenguajes de programación
 
-![image](https://github.com/user-attachments/assets/230221c4-1a22-4267-b1c9-5e792ba90c32)
+![image](https://github.com/user-attachments/assets/799a9859-01b5-4076-b63b-339f41ca2216)
+
 
 
 
