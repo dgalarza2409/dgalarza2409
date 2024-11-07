@@ -8,7 +8,10 @@ Permíteme compartir algunos datos personales contigo:
 - 📫 Mira mis redes sociales en esta página si quieres contactarme.
 - 😄 Tengo mucha experiencia en Electrónica, Telecomunicaciones, Desarrollo de Software, Finanzas, Administración de empresas, Manejo de personal.
 - ✍ I am fluent in Enghlish.
+#
+# Tecnologías
 
+![image](https://github.com/user-attachments/assets/89ab202d-a1d7-4081-b89f-53a72f391410)
 
 
 
