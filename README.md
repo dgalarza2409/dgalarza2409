@@ -26,9 +26,7 @@ Permíteme compartir algunos datos personales contigo:
 [![image](https://github.com/user-attachments/assets/5f0b30d2-98a3-41cf-a208-7de765222014)](https://www.linkedin.com/in/dggr)
 
 
-[![alttext](imageurl)](linkurl)
 
-[![alttext](imageurl)](linkurl)
 
 
 
