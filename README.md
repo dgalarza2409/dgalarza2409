@@ -25,7 +25,7 @@ Permíteme compartir algunos datos personales contigo:
 # Encuéntrame en :
 
 [<img src="imagenes/linkedin.png" width=80>](https://www.linkedin.com/in/dggr)
-[<img src="imagenes/facebook.png" width=80>](https://www.linkedin.com/in/dggr)
+[<img src="imagenes/facebook.png" width=80>](profile.php?id=100014018225302)
 
 
 
