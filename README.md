@@ -24,11 +24,11 @@ Permíteme compartir algunos datos personales contigo:
 
 # Encuéntrame en :
 ### Control + click para abrir enlaces en una nueva pestaña
-
+<p align="center" >
 [<img src="imagenes/linkedin.png" width=50 target="_blank">](https://www.linkedin.com/in/dggr)
 [<img src="imagenes/facebook.png" width=50>](https://www.facebook.com/profile.php?id=100014018225302)
 [<img src="imagenes/instagram.jpg" width=50>](https://www.instagram.com/diegogalarza1949/)
-
+</p>
 
 
 
