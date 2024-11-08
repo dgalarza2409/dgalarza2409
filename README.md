@@ -28,7 +28,7 @@ Permíteme compartir algunos datos personales contigo:
 [<img src="imagenes/linkedin.png" width=50>](https://www.linkedin.com/in/dggr)
 [<img src="imagenes/facebook.png" width=50>](https://www.facebook.com/profile.php?id=100014018225302)
 [<img src="imagenes/instagram.jpg" width=50>](https://www.instagram.com/diegogalarza1949/)
-![correo]("./imagenes/email.jpg")
+![correo]("imagenes/email.png")
 
 ![texto_alternativo](ubicacion_de_la_imagen){width=width height=height}
 
