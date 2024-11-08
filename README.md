@@ -23,11 +23,11 @@ Permíteme compartir algunos datos personales contigo:
 ![image](https://github.com/user-attachments/assets/5fed2b32-030b-455d-bfca-9553f631ed1e)
 
 # Encuéntrame en :
-[![<img src="imagenes/facebook.png" width="100" height="100">](https://www.linkedin.com/in/dggr)
-![linkedin](imagenes/linkedin.png)
+
+[![linkedin](imagenes/linkedin.png)](https://www.linkedin.com/in/dggr)
 
 
-imagenes/facebook.png
+
 
 
 
