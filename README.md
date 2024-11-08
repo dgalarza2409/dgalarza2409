@@ -24,7 +24,9 @@ Permíteme compartir algunos datos personales contigo:
 
 # Encuéntrame en :
 
-[![linkedin](imagenes/linkedin.png)](https://www.linkedin.com/in/dggr)
+[<img src="imagenes/linkedin.png" width=80>](https://www.linkedin.com/in/dggr)
+[<img src="imagenes/facebook.png" width=80>](https://www.linkedin.com/in/dggr)
+
 
 
 
