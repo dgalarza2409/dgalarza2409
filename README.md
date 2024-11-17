@@ -30,7 +30,7 @@ Permíteme compartir algunos datos personales contigo:
 [![Linkedin](https://img.shields.io/badge/Linkedin-black?style=for-the-badge&logo=linkedin&logoColor=blue&logoSize=auto)](https://www.linkedin.com/in/dggr)
 [![Facebook](https://img.shields.io/badge/Facebook-black?style=for-the-badge&logo=facebook&logoColor=blue&logoSize=auto)](https://www.facebook.com/profile.php?id=100014018225302)
 [![Instagram](https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=Instagram&logoColor=black&logoSize=auto)](https://www.instagram.com/diegogalarza1949/)
-[![Email Badge](https://img.shields.io/badge/Gmail-Contact_Me-green?style=for-the-badge&logo=gmail&logoColor=black&labelColor=red&color=black)](mailto:gonzalo.galarza2409@gmail.com)
+[![Email Badge](https://img.shields.io/badge/Gmail-Contáctame-green?style=for-the-badge&logo=gmail&logoColor=black&labelColor=red&color=black)](mailto:gonzalo.galarza2409@gmail.com)
 
 </div>
 
