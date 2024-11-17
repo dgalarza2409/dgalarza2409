@@ -22,16 +22,21 @@ Permíteme compartir algunos datos personales contigo:
 
 ![image](https://github.com/user-attachments/assets/5fed2b32-030b-455d-bfca-9553f631ed1e)
 
-# Encuéntrame en :
-#### Control + click para abrir enlaces en una nueva pestaña
 
-[<img src="imagenes/linkedin.png" width=50>](https://www.linkedin.com/in/dggr)
-[<img src="imagenes/facebook.png" width=50>](https://www.facebook.com/profile.php?id=100014018225302)
-[<img src="imagenes/instagram.jpg" width=50>](https://www.instagram.com/diegogalarza1949/)
-[<img src="imagenes/email.png" width=65>]( )
+<div align="center">
+<h1 style="text-align:center;"><b>Encuéntrame en:</b></h1>
+<p><b>Control + click para abrir enlaces en una nueva pestaña</b></p>
+
+[![Linkedin](https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin&logoSize=auto)](https://www.linkedin.com/in/dggr)
+[![Facebook](https://img.shields.io/badge/Facebook-black?style=for-the-badge&logo=facebook&logoColor=blue&logoSize=auto)](https://www.facebook.com/profile.php?id=100014018225302)
+[![Instagram](https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=Instagram&logoColor=black&logoSize=auto)](https://www.instagram.com/diegogalarza1949/)
+[![mail](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=mailgun&logoColor=black&logoSize=big)]()
+
+</div>
 
 
-[![Facebook](https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=darkblue&logoSize=auto)](https://www.facebook.com/profile.php?id=100014018225302)
+
+
 
 
 
