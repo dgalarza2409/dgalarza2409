@@ -31,6 +31,7 @@ Permíteme compartir algunos datos personales contigo:
 [![Facebook](https://img.shields.io/badge/Facebook-black?style=for-the-badge&logo=facebook&logoColor=blue&logoSize=auto)](https://www.facebook.com/profile.php?id=100014018225302)
 [![Instagram](https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=Instagram&logoColor=black&logoSize=auto)](https://www.instagram.com/diegogalarza1949/)
 [![mail](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=mailgun&logoColor=black)]()
+[![Email Badge](https://img.shields.io/badge/Gmail-Contact_Me-green?style=flat-square&logo=gmail&logoColor=FFFFFF&labelColor=3A3B3C&color=62F1CD)](mailto:test@test.com)
 
 </div>
 
