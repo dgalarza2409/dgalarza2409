@@ -31,6 +31,9 @@ Permíteme compartir algunos datos personales contigo:
 [<img src="imagenes/email.png" width=65>]( )
 
 
+[![Facebook](https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=darkblue&logoSize=auto)](https://www.facebook.com/profile.php?id=100014018225302)
+
+
 
 
 
