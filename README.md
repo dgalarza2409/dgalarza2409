@@ -7,7 +7,7 @@ Permíteme compartir algunos datos personales contigo:
 - 🤔 Estoy dispuesto a colaborar, como profesional independiente (freelancer), con Instituciones o Empresas que requieran personas comprometidas con las tareas encomendadas, local o remotamente.
 - 📫 Mira mis redes sociales en esta página si quieres contactarme.
 - 😄 Tengo mucha experiencia en Electrónica, Telecomunicaciones, Desarrollo de Software, Finanzas, Administración de empresas, Manejo de personal, Gestión de Proyectos.
-- ✍ I am fluent in Enghlish.
+- ✍ I am fluent in English.
 
 # Tecnologías
 
